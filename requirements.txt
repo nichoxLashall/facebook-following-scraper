@@ -1,0 +1,5 @@
+requests==2.28.1
+beautifulsoup4==4.11.1
+
+facebook-following-scraper/.keep
+text# This file keeps the data directory structure intact.
